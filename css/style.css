@@ -39,15 +39,17 @@ body{
     outline: none;
     background: #ebfffc;
     border-radius: 50%;
-    width: 30px;
-    height: 30px;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
 }
-.search button i{
+/* .search button i{
     width: 100%;
     height: 100%;
     line-height: 30px;
     text-align: center;
-}
+    cursor: pointer;
+} */
 .weather{
     margin-top: 100px;
 }
